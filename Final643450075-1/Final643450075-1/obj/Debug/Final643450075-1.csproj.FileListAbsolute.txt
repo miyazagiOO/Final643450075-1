@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\bin\Debug\Final643450075-1.exe.config
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\bin\Debug\Final643450075-1.exe
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\bin\Debug\Final643450075-1.pdb
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075_1.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075_1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.exe
+C:\Users\Lenovo\Documents\GitHub\Final643450075-1\Final643450075-1\Final643450075-1\obj\Debug\Final643450075-1.pdb
